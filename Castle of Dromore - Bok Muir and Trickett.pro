@@ -9,7 +9,7 @@ though [Em]autumn [D]leaves may [C]droop and [G]die
 a [Bm]bud of [Am]spring are [G]you.
 
 {soc}
-sing [C]hush-a-bye [C]lú-ló-[G]lú-ló-[Em]lán
+sing [C]hush-a-bye [D]lú-ló-[G]lú-ló-[Em]lán
 sing [C]hush-a-bye [D]lú-ló-[G]lú.
 {eoc}
 
