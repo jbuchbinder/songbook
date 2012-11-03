@@ -3,14 +3,14 @@
 
 a [A]long de[E]cember and there's [B]reason to be[F#m]lieve
 maybe [A]this year will be [E]better than the [A]last
-I can't re[F#m]member the [A]last thing that you [E]said as you were [B]leaving
-[F#m]and the [E]days go by so [A]fast
+[F#m]I can't re[A]member the [E]last thing that you [B]said as you were [F#m]leaving
+and the [E]days go by so [A]fast
 
 {soc}
-and it's [E]one more day up [A]in the can[F#m]yon
-and it's [E]one more night in [A]hollywood [F#m]  [A]
+and it's [E]one more day up [A]in the can[F#m]yon [A]
+and it's [E]one more night in [A]hollywood [F#m] 
 if you [E]think that I could [A]be forgiven [F#m]-- I wish you would
-[E] [A] [F#m] - [E] [A] [F#m] [A]
+[E] [A] [F#m] [A] [E] [A] [F#m] -
 {eoc}
 
 the smell of hospitals in winter
