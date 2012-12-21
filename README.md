@@ -13,3 +13,10 @@ No warranty, implied or explicit.
 You need a copy of ```chordii``` (which is available for *NIX/*BSD systems).
 Then you just run ```make```. Simple.
 
+### DOWNLOADING CHORDII
+
+* Linux / Source : http://sourceforge.net/projects/chordii/files/chordii/4.3/chordii-4.3.tar.gz
+* Mac : http://sourceforge.net/projects/chordii/files/chordii/4.3/chordii-4.3.1-mac.zip
+* Windows (Win32) : http://sourceforge.net/projects/chordii/files/chordii/4.3/chordii430.exe
+* Manual : http://sourceforge.net/projects/chordii/files/chordii/4.3/chordii-4.3-user_guide.pdf
+
