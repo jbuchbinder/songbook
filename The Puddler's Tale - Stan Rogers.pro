@@ -13,7 +13,7 @@ A dozen [D]more are [Em]split a[B]sun[A]der.
 There is a [D]sign be[A]side the [D]gate,
 "Eleven [D]Days" since a man lay [G]dy[A]ing,
 Now every [D]shift brings fear and [G]hate
-And shaken [D]men in [G]terror [A]cry[D]ing.
+And shaken [D]men in [Em]terror [A]cry[D]ing.
 
 {c: Begin regular tempo}
 
@@ -24,17 +24,17 @@ And Mammon [D]sings in his [Em]grim ca[B]the[A]dral.
 His at[D]tendants [A]join the [D]choir,
 And heaven [D]help us if we're [G]shir[A]king,
 Stoke the [D]furnace-altar [G]fire,
-And just be [D]thankful [G]that we're [A]wor[D]king!
+And just be [D]thankful [Em]that we're [A]wor[D]king!
 
 {soc}
 Do [A]this, then, charge the [D]hoppers [G]high
-Lest you en[D]dure the [G]foreman's [A]chol[D]er,
+Lest you en[D]dure the [Em]foreman's [A]chol[D]er,
 Do [A]this, then, drain the [D]tankards [G]dry,
 And let us [D]toast the al[Em]mighty [B]dol[A]lar,
 That keeps us [D]chained here be[A]fore the [D]fire
 Where heat and [D]noise set the weak a-[G]qua[A]king.
 At the [D]siren's infernal [G]cry,
-The open [D]hearth sets the [G]ground to [A]sha[D]king.
+The open [D]hearth sets the [Em]ground to [A]sha[D]king.
 {eoc}
 
 {c: MUSIC BREAK}
@@ -55,5 +55,5 @@ And raise a [D]song un[Em]to the [B]raf[A]ters!
 Wash the [D]steel mill [A]from your [D]hair,
 Heap the [D]table 'til it's [G]break[A]ing,
 'Nor let [D]terror enter [G]there
-And in the [D]hearth set the [G]glasses [A]break[D]ing. 
+And in the [D]hearth set the [Em]glasses [A]break[D]ing. 
 
