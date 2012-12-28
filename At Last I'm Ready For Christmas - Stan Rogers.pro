@@ -4,7 +4,7 @@
 Last [Em]Boxing Day the [Bm]wife went [A]out, the "[D]White Sales" for to see, 
 In [G]trunk-load lots bought [D]half-price paper and [Em]tinsel for the [A7]tree. 
 I [Em]packed it up for [Bm]use this [A]year in a [D]box I marked so plain. 
-That [G]stuff would sure be [D]handy now, but it's [Em]never been [A]seen a[D]gain. 
+That [G]stuff would sure be [Bm]handy [A]now, but it's [Em]never been [A]seen a[D]gain. 
 
 {soc}
 At [D]last I'm ready for [G]Christ[A]mas. I've [G]even [A]finished the [D]tree. 
