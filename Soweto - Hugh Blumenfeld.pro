@@ -1,3 +1,6 @@
+{t: Soweto}
+{st: Hugh Blumenfeld}
+
 [Am][Am/G] {c: 4x}
 
 Eight [Am]years ago this neighborhood [G]was mostly black and [Am]colored
