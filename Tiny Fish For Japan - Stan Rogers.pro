@@ -3,7 +3,7 @@
 
 Where [G]Patterson [Am]Creek's muddy [D]waters run [Em]down
 Past the [C]penny ar[G]cades, by the [Am]harbour down[D]town,
-[Em]All the old [Am]Turtlebacks [D]rust in the [D]rain
+[Em]All the old [Am]Turtlebacks [D]rust in the [Em]rain
 Like they [C]never will [D]leave there a[G]gain.
 
 But [G]leave there they [Am]will in the [D]hours before [Em]dawn,
