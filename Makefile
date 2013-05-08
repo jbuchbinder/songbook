@@ -1,10 +1,20 @@
 TITLE=Chordbook
 AUTHOR=Various
 
+.SUFFIXES: .pro .pdf
+
 all: clean Chordbook.pdf
 
 clean:
-	rm -f Chordbook.pdf
+	rm -f *.pdf
+
+%.pdf : %.pro
+	XTITLE  := $(shell fgrep '^{t:' $<  | cut -d: -f2 | cut -d'}' -f1)
+	XAUTHOR := $(shell fgrep '^{st:' $< | cut -d: -f2 | cut -d'}' -f1)
+	chordii -a -i -P letter "$<" | \
+		sed -e "s/A nicely formatted song sheet/$(XTITLE)/;" | \
+		sed -e "s/%%Creator:/%%Author: $(XAUTHOR)\n%%Creator:/;" | \
+		ps2pdf - "$@"
 
 Chordbook.pdf:
 	chordii -a -i -P letter *.pro | \
