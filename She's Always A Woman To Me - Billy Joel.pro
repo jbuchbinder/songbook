@@ -1,16 +1,18 @@
 {t: She's Always A Woman To Me}
 {st: Billy Joel}
 
-She can [A7]kill with a [D]smile, she can [A7]wound with her [D]eyes.
-She can ruin your [G]faith with her [Bm]casual [G]lies.
-And she [A7]only re[D]veals what she [A7]wants you to [F#]see.
-She [Bm]hides like a child, but she's [G]always a [A7]woman to [D]me.
+{c: Capo 2nd Fret}
+
+She can [G7]kill with a [C]smile, she can [G7]wound with her [C]eyes.
+She can ruin your [F]faith with her [Am]casual [F]lies.
+And she [G7]only re[C]veals what she [G7]wants you to [E]see.
+She [Am]hides like a child, but she's [F]always a [G7]woman to [C]me.
 
 {soc}
-[Bm]Ohhh.[E7].. she takes care of her[A]self. [F#m]
-She can [D]wait if she [G]wants[Em], she's a[A7]head of her [D]time.
-[Dm]Ohhh... and she [G7]never gives [C]out, [Am]
-and she never gives [Bb]in[E], she just [E7]changes her [A]mind.
+[Am]Ohhh.[D7].. she takes care of her[G]self. [Em]
+She can [C]wait if she [F]wants[Dm], she's a[G7]head of her [C]time.
+[Cm]Ohhh... and she [F7]never gives [Bb]out, [Gm]
+and she never gives [G#]in[D], she just [D7]changes her [G]mind.
 {eoc}
 
 She can lead you to love, she can take you or leave you.
