@@ -1,6 +1,8 @@
 {t:On the Trails I Walk Alone}
 {st:Jeff Perkins}
 
+{c: CAPO 3rd FRET}
+
 On the [G]trails I walk a[G7]lone, it [Am]seems like coming home,
 'mong the [D]maples, oaks and [D7]hick'ries, standing [G]there. [D7]
 Find a [G]log, a rock or [G7]stump, a perfect [Am]place to land my rump,
