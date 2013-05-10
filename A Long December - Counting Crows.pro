@@ -1,16 +1,18 @@
 {t:A Long December}
 {st:Counting Crows}
 
-a [A]long de[E]cember and there's [B]reason to be[F#m]lieve
-maybe [A]this year will be [E]better than the [A]last
-[F#m]I can't re[A]member the [E]last thing that you [B]said as you were [F#m]leaving
-and the [E]days go by so [A]fast
+{c: CAPO 2nd FRET}
+
+a [G]long de[D]cember and there's [A]reason to be[Em]lieve
+maybe [G]this year will be [D]better than the [G]last
+[Em]I can't re[G]member the [D]last thing that you [A]said as you were [Em]leaving
+and the [D]days go by so [G]fast
 
 {soc}
-and it's [E]one more day up [A]in the can[F#m]yon [A]
-and it's [E]one more night in [A]hollywood [F#m] 
-if you [E]think that I could [A]be forgiven [F#m]-- I wish you would
-[E] [A] [F#m] [A] [E] [A] [F#m] -
+and it's [D]one more day up [G]in the can[Em]yon [G]
+and it's [D]one more night in [G]hollywood [Em] 
+if you [D]think that I could [G]be forgiven [Em]-- I wish you would
+[D] [G] [Em] [G] [D] [G] [Em] -
 {eoc}
 
 the smell of hospitals in winter
@@ -38,4 +40,3 @@ and it's one more day up in the canyon
 and it's one more night in hollywood
 it's been so long since I've seen the ocean – guess I should
 {eoc}
-
