@@ -16,7 +16,7 @@ if you [D]think that I could [G]be forgiven [Em]-- I wish you would
 {eoc}
 
 the smell of hospitals in winter
-and the feeling that it';s all a lot of oysters but no pearls
+and the feeling that it's all a lot of oysters but no pearls
 and all at once you look across a crowded room
 to see the way that light attaches to a girl
 
