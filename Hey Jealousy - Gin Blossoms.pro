@@ -1,20 +1,22 @@
 {t: Hey Jealousy}
 {st: Gin Blossoms}
 
-[D] [E] [F#m] [E]
-[D] [E] [F#m] [E]
+{c: Capo 2nd Fret}
 
-Tell me do you [D]think it’d be all [E]right, If I could [F#m]just crash here [E]tonight
-You can see [D]I’m in no shape for [E]driving, And anyway I’ve [F#m]got no place to [E]go
-And you know it [D]might not be that [E]bad, You were the [F#m]best I’d ever [E]had
-If I hadn’t [D]blown the whole thing [E]years ago, I [F#m]might not be a[E]lone
+[C] [D] [Em] [D]
+[C] [D] [Em] [D]
+
+Tell me do you [C]think it’d be all [D]right, If I could [Em]just crash here [D]tonight
+You can see [C]I’m in no shape for [D]driving, And anyway I’ve [Em]got no place to [D]go
+And you know it [C]might not be that [D]bad, You were the [Em]best I’d ever [D]had
+If I hadn’t [C]blown the whole thing [D]years ago, I [Em]might not be a[D]lone
 
 {soc}
-Tomorrow we can [A]drive around this [D]town, And let the [A]cops chase us a[D]round
-The past is gone but [F#m]something might be [E]found, To take its [D]place
-[D]Hey jealousy
-[D] [E] Hey jealousy, [F#m] [E] hey jealousy
-[D] [E] Hey jealousy, [F#m] [E] hey jealousy
+Tomorrow we can [G]drive around this [C]town, And let the [G]cops chase us a[C]round
+The past is gone but [Em]something might be [D]found, To take its [C]place
+[C]Hey jealousy
+[C] [D] Hey jealousy, [Em] [D] hey jealousy
+[C] [D] Hey jealousy, [Em] [D] hey jealousy
 {eoc}
 
 And you can trust me not to think, And not to sleep around
@@ -29,7 +31,7 @@ Hey jealousy
 {eoc}
 
 {c: SOLO}
-[D] [E] [F#m] [E] {c: 4x}
+[C] [D] [Em] [D] {c: 4x}
 
 {soc}
 Tomorrow we can drive around this town, And let the cops chase us around
@@ -48,8 +50,8 @@ If I hadn’t blown the whole thing years ago, I might not be alone
 Tomorrow we can drive around this town, And let the cops chase us around (A; D; A; D;)
 The past is gone but something might be found, To take its place
 Hey jealousy
-[D] [E] [F#m] [E] [D] [E] [F#m]
-[E] Hey jealou[D]sy, She [E]took my heart [F#m] [E]
-There’s only [D]one thing I couldn’t [E]start [F#m] [E] [A]
+[C] [D] [Em] [D] [C] [D] [Em]
+[D] Hey jealou[C]sy, She [D]took my heart [Em] [D]
+There’s only [C]one thing I couldn’t [D]start [Em] [D] [G]
 {eoc}
 
