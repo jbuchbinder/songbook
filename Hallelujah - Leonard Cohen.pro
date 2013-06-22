@@ -8,7 +8,7 @@ That [C]David played and it [Am]pleased the lord
 But [F]you don't really [G]care for music, [C]do you? [G]
 Well it [C]goes like this the [F]fourth, the [G]fifth
 The [Am]minor fall and the [F]major lift
-The [G]baffled king [Em]composing halle[Am]lujah
+The [G]baffled king [E7]composing halle[Am]lujah
 
 {soc}
 Halle[F]lujah, halle[Am]lujah, halle[F]lujah, halle[C]lu-u-[G]u-u-[C]jah .... 
