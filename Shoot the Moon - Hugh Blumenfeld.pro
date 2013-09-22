@@ -42,8 +42,8 @@ I guess I was [Em]born a little too [D/F#]late, or way too [A]soon...
 - Shoot the moon.... we could fall free
 {eoc}
 
-Well, a quarter of a million miles isn't really that far
-It took me two Chevy's, but I've done it in a car
+Well, a [G]quarter of a million [D]miles isn't really that [C]far
+It [G]took me two Chevy's, but I've [D]done it in a [C]car
 Driving from town to town with this old guitar
 Made in 1969
 One small step for mankind
