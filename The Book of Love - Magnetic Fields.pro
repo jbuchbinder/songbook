@@ -2,15 +2,15 @@
 {st: Magnetic Fields}
 
 [G] The book of [C]love is [D/F#]long and [G]boring
-[G] No one can [C]lift the [D/F#]damn [G]thing 
+[Em] No one can [C]lift the [D/F#]damn [G]thing 
 [G] It's full of [C]charts and [D/F#]facts and [G]figures
-[G] And in[C]structions for [D/F#]dancing [G]but
+[Em] And in[C]structions for [D/F#]dancing [G]but
 
 {soc}
 [G]I... [C] [D/F#] [G]
-[G] I [C]love it when you [D/F#]read to [G]me and
+[Em] I [C]love it when you [D/F#]read to [G]me and
 [G]You... [C] [D/F#] [G]
-[G] You can [C]read me [D/F#]any[G]thing
+[Em] You can [C]read me [D/F#]any[G]thing
 {eoc}
 
 The book of love has music in it
