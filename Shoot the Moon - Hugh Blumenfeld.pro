@@ -3,6 +3,8 @@
 
 {c: CAPO 2nd FRET}
 
+[Em] [D/F#] [C]
+
 When [Em]I was young all I [D/F#]wanted was the [C]moon
 Hung that [Em]National Geo[D/F#]graphic map in my [C]room
 In [G]seventh grade, My[D/F#]thology one-oh-[Em]one
@@ -17,7 +19,7 @@ To take me away
 {soc}
 [Em] [D/F#]Shoot the [C]moon
 Set me down in the Sea of Tranquilli[G]ty
-Just the stars and me
+Just the stars and [D]me
 - Shoot the [C]moon
 Give me a home in the 21st centu[G]ry
 A little [D/F#]less gravi[Em]ty
