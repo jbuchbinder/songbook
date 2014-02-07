@@ -1,16 +1,18 @@
 {t: The Ways of Man}
 {st: Gordon Bok}
 
-The [F]ways of [Bb]man are [F]passing [Bb]strange
-He [Eb]buys his [F]freedom and he [Gm]counts his change
-Then he [F]lets the [Eb]wind his [Bb]days [Bb/A]ar[Gm]range
-And he [Bb]calls the tide his [Eb]master
+{c: CAPO 3rd FRET}
+
+The [D]ways of [G]man are [D]passing [G]strange
+He [C]buys his [D]freedom and he [Em]counts his change
+Then he [D]lets the [C]wind his [G]days [G/A]ar[Em]range
+And he [G]calls the tide his [C]master
 
 {soc}
-[Bb]Oh the days, [F]oh the [Bb]days
-[Eb]Oh the [F]fine long summer [Gm]days
-The [Eb]fish come rolling [Am]in the [Gm]bays
-And he [Bb]swore he'd [F]never [Eb]leave me
+[G]Oh the days, [D]oh the [G]days
+[C]Oh the [D]fine long summer [Em]days
+The [C]fish come rolling [F#m]in the [Em]bays
+And he [G]swore he'd [D]never [C]leave me
 {eoc}
 
 But the days grow short and the year gets old
