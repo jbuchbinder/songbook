@@ -3,15 +3,15 @@
 
 [Am] [Am/B] [C] [F] [Am] [Am/B] [C] [F]
 
-You with the [Am]sad [G]eyes, [C]don't be [C/E]discouraged
-Oh I [F]realize it's [Am]hard to take [G]courage
-In a [C]world full of [Dm]people, [Em]you can lose sight [F]of it all
-And the [Am]darkness [G]inside you make you [F]feel so [C]small
+You with the [Am7]sad [G]eyes, [C]don't be [C/E]discouraged
+Oh I [F]real[Fmaj7]ize it's [Am7]hard to take [G]courage
+In a [C]world full of [Dm]people, [Em7]you can lose sight [F]of it all
+And the [Am7]darkness [G]inside you make you [F]feel so [C]small
 
 {soc}
 But I'll see your [F]true [C]colors [Gsus4]shining [G]through
 I'll see your [F]true [C]colors, And [F]that's why I [Gsus4]love [G]you
-So [F]don't be af[C]raid to [F]let them [Am]show
+So [F]don't be af[C]raid to [F]let them [Am7]show
 Your [F]true [C]colors, [F]True [C]colors are [Gsus4*]beautiful, like a [Am]Rainbow
 {eoc}
 
