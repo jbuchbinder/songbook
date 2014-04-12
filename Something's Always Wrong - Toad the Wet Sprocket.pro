@@ -1,7 +1,9 @@
 {t: Something's Always Wrong}
 {st: Toad the Wet Sprocket}
 
-{c: CAPO 6th FRET}
+{c: CAPO 4th FRET}
+
+[Am]
 
 [F]Another [G]day [Em] I [Am]call and [G]never speak
 [F]And you would [G]say [Am]nothing's [G]changed at [D/F#]all

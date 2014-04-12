@@ -1,6 +1,8 @@
 {t: The Book of Love}
 {st: Magnetic Fields}
 
+{c: CAPO 5th FRET}
+
 [G] The book of [C]love is [D/F#]long and [G]boring
 [Em] No one can [C]lift the [D/F#]damn [G]thing 
 [G] It's full of [C]charts and [D/F#]facts and [G]figures

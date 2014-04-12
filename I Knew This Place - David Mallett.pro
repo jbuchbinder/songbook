@@ -29,7 +29,7 @@ Our lives pass on from door to door, dust across the wooden floor
 like feather rain and thunder roar we need not know the reason
 
 And all these thoughts come back to me like ships across the friendly sea
-like breezes blowing endlessly, like riverrs running free
+like breezes blowing endlessly, like rivers running free
 The day is done, the lights are low, the wheels of life are turning slow
 and as these visions turn and go, I lay me down to sleep.
 

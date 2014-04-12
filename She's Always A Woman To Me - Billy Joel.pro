@@ -1,12 +1,12 @@
 {t: She's Always A Woman To Me}
 {st: Billy Joel}
 
-{c: Capo 2nd Fret}
+[G] [C] [G] [E7] [Am] [Am/G] [F] [G] [C]
 
-She can [G7]kill with a [C]smile, she can [G7]wound with her [C]eyes.
-She can ruin your [F]faith with her [Am]casual [F]lies.
-And she [G7]only re[C]veals what she [G7]wants you to [E]see.
-She [Am]hides like a child, but she's [F]always a [G7]woman to [C]me.
+She can [G]kill with a [C]smile, she can [G]wound with her [C]eyes.
+She can [C]ruin your [F]faith with her [Am]casual [F]lies.
+And she [G]only re[C]veals what she [G]wants you to [E7]see.
+She [Am]hides like a [Am/G]child, but she's [F]always a [G]woman to [C]me.
 
 {soc}
 [Am]Ohhh.[D7].. she takes care of her[G]self. [Em]
