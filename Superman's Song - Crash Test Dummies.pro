@@ -33,3 +33,8 @@ On man, join Tarzan in the forest
 But he stayed in the city, and kept on changing clothes
 In dirty old phonebooths till his work was through
 And nothing to do but go on home
+
+{c: CHORUS}
+
+[G]
+
