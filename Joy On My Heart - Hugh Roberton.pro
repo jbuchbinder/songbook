@@ -11,15 +11,15 @@ Whether I [G]wander [Em] east or [Bm]west,
 [G]Joy of my [F]heart, [C]Eilean [D]Muileach.
 {eoc}
 
-Peat and heather, how they call me
-Little wee bothan by the hillside,
-Joy of my heart, Eilean Mulligh
+[D]Peat and [G]heather, [Em]how they [Bm]call me
+[C]Little wee [Am]bothan [D]by the [G]hill[D]side,
+[G]Joy of my [F]heart, [C]Eilean [D]Muileach
 
 {c: CHORUS}
 
-Friendly hearts are waiting to greet me
-Welcoming arms are there to hold me,
-Joy of my heart, Eilean Mulligh
+[D]Friendly [G]hearts are [Em]waiting to [Bm]greet me
+[C]Welcoming [Am]arms are [D]there to [G]hold [D]me,
+[G]Joy of my [F]heart, [C]Eilean [D]Muileach
 
 {c: CHORUS}
 

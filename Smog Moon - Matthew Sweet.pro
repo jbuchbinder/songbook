@@ -26,10 +26,10 @@ And while he [E7]was, he thought he was in[F]vinci[G]ble
 
 [C]
 
-[Em]They're not your [F]words, but you're re[G]citing the [Am]lines
-[Em]You don't mean a [F]thing, but you e[G]xist in their [Am]minds
-[Em]How does it [F]feel, when they have [G]turned out the [Am]lights?
-[Em]'Cause you know they [F]sooner would get [G]rid of you, than [C]fight.
+[E7]They're not your [F]words, but you're re[G]citing the [Am]lines
+[E7]You don't mean a [F]thing, but you e[G]xist in their [Am]minds
+[E7]How does it [F]feel, when they have [G]turned out the [Am]lights?
+[E7]'Cause you know they [F]sooner would get [G]rid of you, than [C]fight.
 
 And the [C]dark night, has the strongest pull
 We both know that staying young, can take its toll
@@ -38,14 +38,10 @@ Are you af[E7]raid of finding out you're [F]over [G]that
 
 {soc}
 There's a [C]smog moon coming I can always feel it
-Bb
-The cartoon trees cannot conceal it
-Ab                       Cm                 Bb              Cm
-When it's high up in the sky, it almost looks like it is white
-Ab                       Cm                 Bb              Cm
-When it's high up in the sky, it almost looks like it is white
-Ab                       Cm                 Bb              Cm
-When it's high up in the sky, it almost looks like it is white
+[G]The cartoon trees cannot conceal it
+When it's [F]high up in the [Am]sky, it almost [G]looks like it is [Am]white
+When it's [F]high up in the [Am]sky, it almost [G]looks like it is [Am]white
+When it's [F]high up in the [Am]sky, it almost [G]looks like it is [Am]white
 When it's [F]high up in the [Am]sky, it almost [G]looks like [C]
 {eoc}
 
