@@ -1,6 +1,8 @@
 {t:The Golden Vanity}
 {st:Gordon Bok}
 
+{c: DROP LOWER D STRING}
+
 There [G]was a lofty [A]ship and they [G]put her [A]out to [D]sea
 And the [D]name [D/C#]of the [D/B]ship [D/A]was the [G]Golden Vani[A]ty 
 And they [D]sailed her on the [A]lowlands, [G]lowlands [D]low
@@ -45,4 +47,6 @@ I would sink you in the lowland lowland low / I would sink you in the lowland se
 And the boy bowed his head and down sank he
 And he said farewell to the Golden Vanity
 As she lay along the lowland lowland low / As she lay along the lowland sea
+
+{c: REPEAT 1st VERSE}
 
