@@ -26,7 +26,7 @@ And laid him out upon the bed
 With plenty of handles around his feet
 And a couple of dozen around his head.
 
-{c:Chorus}
+{c: CHORUS}
 
 His friends assembled at the wake
 And Missus Finnegan called for lunch
@@ -37,7 +37,7 @@ Such a lovely corpse did you ever see
 Arrah! Tim avourneen why did you die
 Ah! none of your gab said Biddy McGee.
 
-{c:Chorus}
+{c: CHORUS}
 
 Then Peggy O'Connor took up the job
 Arrah! Biddie says she, you're wrong I'm sure
@@ -48,7 +48,7 @@ Each side in war did soon engage
 Shillelaghly law was all the rage
 And a row and a ruction soon began.
 
-{c:Chorus}
+{c: CHORUS}
 
 Mickey Maloney raised his head
 When a gallon of whiskey flew at him
@@ -59,6 +59,6 @@ Tim Finnegan jumping from the bed
 Crying while he ran around like blazes
 "Thundering blazes, ye think I'm dead."
 
-{c:Chorus}
+{c: CHORUS}
 
 

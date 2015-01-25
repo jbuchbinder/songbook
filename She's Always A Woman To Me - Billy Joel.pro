@@ -8,19 +8,17 @@ She can [C]ruin your [F]faith with her [Am]casual [F]lies.
 And she [G]only re[C]veals what she [G]wants you to [E7]see.
 She [Am]hides like a [Am/G]child, but she's [F]always a [G]woman to [C]me.
 
+She can lead you to love, she can take you or leave you.
+She can ask for the truth, but she'll never believe.
+And she'll take what you give her as long it's free.
+She steals like a thief, but she's always a woman to me.
+
 {soc}
 [Am]Ohhh.[D7].. she takes care of her[G]self. [Em]
 She can [C]wait if she [F]wants[Dm], she's a[G7]head of her [C]time.
 [Cm]Ohhh... and she [F7]never gives [Bb]out, [Gm]
 and she never gives [G#]in[D], she just [D7]changes her [G]mind.
 {eoc}
-
-She can lead you to love, she can take you or leave you.
-She can ask for the truth, but she'll never believe.
-And she'll take what you give her as long it's free.
-She steals like a thief, but she's always a woman to me.
-
-{c: CHORUS}
 
 And she'll promise you more than the garden of Eden.
 Then she'll carelessly cut you and laugh while you're bleeding.

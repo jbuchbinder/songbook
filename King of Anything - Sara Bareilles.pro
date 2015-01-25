@@ -12,7 +12,7 @@ But I [Am]just keep quiet and count the [F]cars that [G]pass by
 
 [C]  You've got opinions, man
 [Dm]  We're all entitled to them, [Am] but I never [F]asked [G]
-So let me [C]thank you for your time, and try [D]not to waste anymore of mine
+So let me [C]thank you for your time, and try [Dm]not to waste anymore of mine
 [Am]  And get out of here [F]fast [G]
 
 I hate to [Dm]break it to you babe, [Em] [F]

@@ -24,6 +24,8 @@ Folks said his family were all dead
 Their planet crumbled but Superman, he forced himself
 To carry on, forget Krypton, and keep going
 
+{c: CHORUS}
+
 [Em]Tar[D]zan was [Em]king of the [D]jungle and [C]Lord over all the [G]apes [D]
 [Em]But [D]he could [Em]hardly [D]string together [C]four [G]words: "[C]I [G]Tarzan, You [D]Jane."
 
