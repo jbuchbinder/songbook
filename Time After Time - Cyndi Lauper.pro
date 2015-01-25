@@ -1,5 +1,5 @@
 {t: Time After Time}
-{st: Cindy Lauper}
+{st: Cyndi Lauper}
 
 {c: CAPO 5th FRET]
 

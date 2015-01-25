@@ -12,7 +12,7 @@ And you [G]know the clipper's day has come a[D]gain.
 To the [G]men on high the boson's cry com[C]mands a killing [G]strain
 'Til [G]every mother's son begins to [D]pray.
 With a [C]hearty shout, she [D]comes about and [G]heads into the [C]rain,
-And the [G]ship has never [D]seen a better [G]day.
+And the [G]ship has never [C]seen a [D]better [G]day.
 
 {soc}
 [D]Sailing ships and sailing men will [C]sail the open [G]waters

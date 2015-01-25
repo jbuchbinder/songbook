@@ -1,7 +1,8 @@
 {t: Letting the Cables Sleep}
 {st: Bush}
 
-{c: Capo 6th Fret}
+{c: Capo 6th Fret - Original}
+{c: Capo 3rd Fret}
 
 [C] [D] [E]
 

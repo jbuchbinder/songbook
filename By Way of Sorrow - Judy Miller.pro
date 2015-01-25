@@ -1,7 +1,8 @@
 {t: By Way of Sorrow}
 {st: Judy Miller}
 
-{c: CAPO 2nd FRET}
+{c: CAPO 2nd FRET - Original}
+{c: CAPO 3rd FRET}
 
 [G] [G/F#]
 [Em]You've been taken [D]by the [G]wind

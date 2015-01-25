@@ -8,7 +8,7 @@ There's [G7]no time for rovin' there's [F]work to be [G7]done!
 And they [C]gave me a [F]tin hat and [C]gave me a [Am]gun and they [C]sent me a[G7]way to the [C]war.
 
 {soc}
-And the [C]band played [F]Waltzing Ma[C]tilda as the ship pulled away from the [Dm]quay,
+And the [C]band played [F]Waltzing Ma[C]tilda as the ship pulled a[Dm]way from the [G]quay,
 and a[G7]midst all the [F]cheers, the flag [C]waving and [Am]tears, we [C]sailed off for [G7]Gallipol[C]i
 {eoc}
 

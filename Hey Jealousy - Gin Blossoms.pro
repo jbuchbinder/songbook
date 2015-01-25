@@ -47,7 +47,7 @@ And you know it might not be that bad, You were the best I’d ever had
 If I hadn’t blown the whole thing years ago, I might not be alone
 
 {soc}
-Tomorrow we can drive around this town, And let the cops chase us around (A; D; A; D;)
+Tomorrow we can drive around this town, And let the cops chase us around
 The past is gone but something might be found, To take its place
 Hey jealousy
 [C] [D] [Em] [D] [C] [D] [Em]
