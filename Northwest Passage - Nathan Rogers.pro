@@ -14,7 +14,7 @@ And a [G]long forgotten [D]lonely [A]cairn of [Bm]stones
 {soc}
 [A]Ah for [D]just one [A]time I would [G]take the Northwest [Bm]passage
 To [G]find the hand of [D]Franklin reaching [Em]for the [F#m]Beaufort [G]sea
-[A]Tracing [D]one warm [A]line through a [D]land so white and [Bm]savage
+[A]Tracing [D]one warm [A]line through a [G]land so white and [Bm]savage
 And [G]make a Northwest [D]Passage [A]to the [D]sea
 {eoc}
 
@@ -37,5 +37,9 @@ Like them, I left a settled life, I threw it all away
 To seek a Northwest Passage at the call of many men
 To find there but the road back home again
 
-{c: CHORUS}
+{c: CHORUS 2x, ending with:}
+{soc}
+And [G]make a Northwest [D]Passage [A]to the [Bm]sea
+And [G]make a Northwest [D]Passage [A]to the [D]sea
+{eoc}
 
