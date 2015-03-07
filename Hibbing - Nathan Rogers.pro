@@ -3,16 +3,18 @@
 
 {c: DADGBd Tuning}
 
-Can you [D]handle [G]one more [D]day of [A]work, though it [D]won’t change your [G]life, [D]my [A]friend?
-You pay your [D]dues and you [G]spend your [D]time down [A]where the [D]sidewalk [G]ends,
-where the [D]pavement [A]cracked.
-[D]At the [G]north [D]end of [A]town is [D]where Uncle [G]Sam’s [D]strip mine is [A]gonna [D]swallow [G]Hibbing [D]down. [A]
+[D]
+
+Can you [G]handle [D]one more [A]day of [D]work, though it [G]won’t change your [D]life, [A]my [D]friend?
+You pay your [G]dues and you [D]spend your [A]time down [D]where the [G]sidewalk [D]ends, [A]
+[D] where the [G]pavement [D]cracked.
+[A]At the [D]north [G]end of [D]town is [A]where [D]Uncle [G]Sam’s [D]strip mine is [A]gonna [D]swallow [G]Hibbing [D]down. [A]
 
 {soc}
 [Em]You come to work a barren [A]ground.
 [Em]To spend a life on a [A]job deep down
 in this [G]man-made canyon where the [D]pay is [A]fine.
-There are [Em]two ways out of Hibbing:
+There are [G]two ways out of Hibbing:
 [Bm]On the Greyhound [A]or down the [D]mine.
 {eoc}
 
