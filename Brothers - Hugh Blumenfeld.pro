@@ -1,6 +1,8 @@
 {t: Brothers}
 {st: Hugh Blumenfeld}
 
+{define: C/G base-fret 0 frets 3 3 2 0 1 0 }
+
 My [G]brother is a [D/F#]dark-eyed gentle [Em]man 
 We [G]see each other [C]when we can
 For [G/B]dinner or some [Am7]music [D] 

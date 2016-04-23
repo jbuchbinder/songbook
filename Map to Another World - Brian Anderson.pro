@@ -1,4 +1,4 @@
-{s: Map to Another World}
+{t: Map to Another World}
 {st: Brian Anderson}
 
 [Am] - [F] [G]

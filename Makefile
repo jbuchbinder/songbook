@@ -1,5 +1,5 @@
-TITLE=Chordbook
-AUTHOR=Various
+TITLE  := Chordbook
+AUTHOR := Various
 
 .SUFFIXES: .pro .pdf
 
@@ -8,7 +8,7 @@ all: clean Chordbook.pdf
 clean:
 	rm -f *.pdf
 
-%.pdf : %.pro
+%.pdf: %.pro
 	XTITLE  := $(shell fgrep '^{t:' $<  | cut -d: -f2 | cut -d'}' -f1)
 	XAUTHOR := $(shell fgrep '^{st:' $< | cut -d: -f2 | cut -d'}' -f1)
 	chordii -a -i -P letter "$<" | \

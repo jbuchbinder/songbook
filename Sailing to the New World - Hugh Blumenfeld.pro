@@ -1,6 +1,8 @@
 {t: Sailing to the New World}
 {st: Hugh Blumenfeld}
 
+{define: Bm/A base-fret 0 frets x 0 4 4 3 2 }
+
 [A]
 
 And the [G]sun makes no [A]difference at [D]all

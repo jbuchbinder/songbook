@@ -1,8 +1,11 @@
 {t: Thousand Years}
 {st: Christina Perri}
 
+{define: A7sus4 base-fret 0 frets x 0 2 0 3 0 }
+{define: Asus4/G base-fret 0 frets 3 x 2 2 3 0 }
+
 [G] [G/F#] [Em7]
-[A7Sus4] [Cadd9] [G6] [G] [D]
+[A7sus4] [Cadd9] [G6] [G] [D]
 
 [Cadd9]Heartbeats fast
 Colors and [G]promises 

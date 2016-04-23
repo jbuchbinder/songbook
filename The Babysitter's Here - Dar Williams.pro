@@ -28,7 +28,7 @@ leo[Em]tard, and
 [F]There she was leaping up [G]just like she said
 With a [Dm]sparkling horn coming [G]out of her head
 And she's [C]oh, oh, [Em]oh, oh
-[F][I can't wait to give her the card, [G]I can't wait to give her the card]
+[F]I can't wait to give her the card, [G]I can't wait to give her the card
 [C]She's the best one . . .[Em][F][G]
 
 [Dm]OK, so the play was called "The [G]Unicorn" and [Am]she was the

@@ -1,6 +1,9 @@
 {t: True Colors}
 {st: Cyndi Lauper}
 
+{define: Am/B base-fret 0 frets x 2 2 2 1 0 }
+{define: C/E base-fret 0 frets 0 3 2 0 1 0 }
+
 [Am] [Am/B] [C] [F] [Am] [Am/B] [C] [F]
 
 You with the [Am7]sad [G]eyes, [C]don't be [C/E]discouraged

@@ -2,7 +2,7 @@
 {st: Traditional}
 
 A - [G]mazing grace! How [C]sweet the [G]sound that [Em]saved a [Am]wretch like [Dsus4/F#]me! [D/F#]
-I [G]once was [G7]lost, but [C]now I'm [A7]found; Was [G]blind, but [D/F#]now I [G7]see! [G]
+I [G]once was [G7]lost, but [C]now I'm [A7]found; Was [G]blind, but [D/F#]now I [Gsus4]see! [G]
 
 'Twas grace that taught my heart to fear, And grace my fears relieved;
 How precious did that grace appear the hour i first believed!

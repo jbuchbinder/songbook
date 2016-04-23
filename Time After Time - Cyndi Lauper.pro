@@ -1,7 +1,9 @@
 {t: Time After Time}
 {st: Cyndi Lauper}
 
-{c: CAPO 5th FRET]
+{c: CAPO 5th FRET}
+
+{define: Cmaj9 base-fret 0 frets x 3 2 0 3 3 }
 
 [C]  [D]  [Bm]  [Cmaj9]
 [C]  [D]  [Bm]  [Cmaj9]

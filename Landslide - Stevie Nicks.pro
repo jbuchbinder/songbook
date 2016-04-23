@@ -1,6 +1,8 @@
 {t: Landslide}
 {st: Stevie Nicks}
 
+{define: D7/F# base-fret 0 frets 2 x 0 2 1 2 }
+
 [C] I took my [G/B]love, I took it [Am7]down [G/B]
 [C] Climbed a [G/B]mountain and I turned a[Am7]round [G/B]
 And I [C]saw my ref[G/B]lection in the [Am7]snow-covered [G/B]hills

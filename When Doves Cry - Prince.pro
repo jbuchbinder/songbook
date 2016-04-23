@@ -1,6 +1,8 @@
 {t: When Doves Cry}
 {st: Prince}
 
+{define: G/G# base-fret 0 frets 4 2 0 0 0 3 }
+
 [F] [G] [F] [G]
 
 [Am]Dig if u will the [G]picture of you and I engaged in a [G/G#]kiss
