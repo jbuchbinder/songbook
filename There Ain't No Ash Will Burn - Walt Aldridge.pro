@@ -17,7 +17,7 @@ There ain't no ash will burn
 
 In every life there comes a time
 When there are no more tears to cry
-We must leae something here behind
+We must leave something here behind
 There ain't no ash will burn
 
 {c:Chorus + Break}

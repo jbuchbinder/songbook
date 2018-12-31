@@ -1,10 +1,9 @@
 {t: Ghosttown}
 {st: Madonna}
 
-{c: Capo 3rd Fret}
+{c: Capo 2nd Fret}
 
-{c: INTRO}
-[Bm] - [A] - [D] - [Em] - [Bm] - [A] - [D]
+[Bm] [A] [D] [Em] [Bm] [A] [D]
 
 [Bm]Maybe it was all too [A]much
 Too [D]much for a man to [Em]take.
@@ -24,12 +23,14 @@ But [D]we're gonna stay here, we're gonna stay here.
 [G]When it all falls, when it [D]all falls down
 [A]I'll be your fire when the [Bm]lights go out.
 [G]When there's no one, no one [D]else around
-[A]We'll be two souls in a [G]ghost town.
+[A]We'll be two souls in a [Bm]ghost town.
 When the [G]world [D]gets [A]cold [Bm]I'll be your cover,
 [G]Let's [D]just [A]hold [Bm]onto each other.
 [G]When it all falls, when it [D]all falls down
-[A]We'll be two souls in a [Bm]ghost town. [Bm] - [A] - [D] - [G]
+[A]We'll be two souls in a [Bm]ghost town.
 {eoc}
+
+[Bm] [A] [D] [Em]
 
 Tell me how we got this far
 Every man for himself.
@@ -49,11 +50,11 @@ Singing a new song, something to build on.
 [G]When it all falls, when it [D]all falls down
 [A]I'll be your fire when the [Bm]lights go out.
 [G]When there's no one, no one [D]else around
-[A]We'll be two souls in a [G]ghost town.
+[A]We'll be two souls in a [Bm]ghost town.
 When the [G]world [D]gets [A]cold [Bm]I'll be your cover,
 [G]Let's [D]just [A]hold [Bm]onto each other.
 [G]When it all falls, when it [D]all falls down
-[A]We'll be two souls in a [Bm]ghost town. [Bm] - [A] - [D] - [G]
+[A]We'll be two souls in a [Bm]ghost town. -
 {eoc}
 
 [Bm]  I know we're alright [F#7]
@@ -61,12 +62,16 @@ Cause we'll never be a[G]lone
 In this mad mad, [D] in this [A]mad mad [Bm]world.
 Even with no light [F#7]
 We're gonna shine like [G]gold
-In this mad mad, [D] in this [A]mad mad [B] world. [G] - [D] - [A] - [Bm] - [G] - [D] - [A]
+In this mad mad, [D] in this [A]mad mad [Bm] world.
+
+{c: Single Strum}
+
 [G]When it all falls, when it [D]all falls down
 [A]I'll be your fire when the [Bm]lights go out.
 [G]When there's no one, no one [D]else around
-A                        
 [A]We'll be two souls in a ghost town.
+
+{c: Hit guitar, then Full chords}
 
 {soc}
 [G]When it all falls, when it [D]all falls down
@@ -75,8 +80,7 @@ A
 [A]We'll be two souls in a ghost town.
 When the [G]world [D]gets [A]cold [Bm]I'll be your cover,
 [G]Let's [D]just [A]hold [Bm]onto each other.
-[G]When it all falls, when it [D]all falls down
-[A]We'll be two souls in a [Bm]ghost town.
+{c: Slow down to end}
 [G]When it all falls, when it [D]all falls down
 [A]We'll be two souls in a [Bm]ghost town.
 {eoc}

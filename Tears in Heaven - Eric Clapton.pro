@@ -3,6 +3,8 @@
 
 {c: Capo 2nd Fret}
 
+{define: E/G# base-fret 0 frets 4 2 2 1 0 0}
+
 [A]   [E/G#]   [F#m]   [A/E]   [D/F#]   [E7(4)]   [E7]
 
 [A]  Would you [E/G#]know my [F#m]name [A/E]

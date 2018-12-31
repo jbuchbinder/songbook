@@ -36,9 +36,8 @@ make you believe make you forget
 
 hold on... [Csus2] [Em7] [G] [D]
 
-[Em7] - [Csus2] - [G]
-[Em7] - [Csus2] - [G]
-[Em7] - [Csus2] - [G]
+{c: REPEAT 4x}
+
 [Em7] - [Csus2] - [G]
 
 {c: REPEAT CHORUS 4x}
